@@ -81,3 +81,23 @@ A Boolean satisfiability solver developed in C to evaluate hierarchical preferen
 ---
 
 ## Technical
+I'm particularly interested in developing reliable, well-structured software, with a focus on:
+
+Software Architecture: Modular design, separation of concerns, and maintainability.
+
+Backend Development: Application logic, data management, and distributed systems.
+
+Cross-Platform Applications: Exploring modern development frameworks and technologies.
+
+Problem Solving: Algorithm design, logical reasoning, and efficient implementations.
+
+GitHub Activity
+
+
+
+<div align="center">
+
+Leonardo Miotto · Computer Engineering · Politecnico di Milano
+
+</div>
+
